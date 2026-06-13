@@ -1,0 +1,39 @@
+body{
+  background-color:#000;
+  position:relative;
+  text-align:center;
+}
+input{
+    position:absolute;
+    top:500px;
+    left:50px;
+    width:250px;
+}
+#text{
+    border:solid 5px #fff;
+    height:270px;
+    width:270px;
+    position:absolute;
+    top:90px;
+    left:35px;
+}
+#color{
+    position:absolute;
+    top:400px;
+    left:75px;
+    border-radius:8px;
+    border:solid 1px;
+    padding:15px;
+    color:#000;
+    background-color:#fff;
+    font-family:fantasy;
+    font-weight:900;
+}
+h1{
+    font-family:courier;
+    font-weight:900;
+    position:absolute;
+    left:48px;
+    top:20px;
+    color:#fff;
+}
