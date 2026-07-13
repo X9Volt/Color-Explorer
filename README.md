@@ -1,28 +1,41 @@
-Color Hex Code Checker
+Color Explorer
 
-A simple JavaScript project that allows users to explore colors using a range slider.
+An interactive web application that allows users to preview colors in real time using a slider or by entering a hexadecimal (HEX) color code manually.
+
+This project was built as part of my front-end development journey and demonstrates fundamental JavaScript concepts such as DOM manipulation, event handling, and dynamic styling.
 
 Features
 
-- Interactive range slider
-- Dynamic color updates
-- Displays the corresponding hex color code
-- Real-time UI updates using JavaScript event listeners
+- Live color preview
+- Real-time HEX color code display
+- Manual HEX code input
+- Mobile-friendly interface
 
-What I Learned
+Built With
 
-- DOM element selection with "getElementById()"
-- Event handling with "addEventListener()"
-- Working with range inputs
-- Updating styles dynamically using JavaScript
-- Debugging DOM-related errors
-- Understanding why JavaScript may execute before HTML elements are available
-- Using "window.onload" to ensure elements are loaded before accessing them
-
-Tech Stack
-
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
-Built as part of my JavaScript learning journey while reinforcing DOM manipulation and event-driven programming concepts.
+Purpose
+
+This project was created to practice working with:
+
+- DOM manipulation
+- Event listeners
+- Dynamic CSS updates
+- User interaction
+
+Live Demo
+
+Coming soon.
+
+Author
+
+Xnine Volt
+
+GitHub: https://github.com/X9Volt
+
+---
+
+Built entirely on a mobile phone as part of my journey to becoming a software developer.
