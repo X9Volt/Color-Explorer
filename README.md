@@ -26,9 +26,7 @@ This project was created to practice working with:
 - Dynamic CSS updates
 - User interaction
 
-Live Demo
-
-Coming soon.
+Live Demo: https://color-explorer-psi.vercel.app/
 
 Author
 
