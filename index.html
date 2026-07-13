@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Color Explorer</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Color Explorer</h1>
+
+<div class="container">
+
+    <div id="preview"></div>
+
+    <p id="hexCode">
+        Color Hex Code: #111111
+    </p>
+
+    <input
+        type="range"
+        id="slider"
+        min="111111"
+        max="999999"
+        value="111111">
+
+    <label for="manualInput">
+        Enter a HEX code
+    </label>
+
+    <input
+        type="text"
+        id="manualInput"
+        maxlength="6"
+        placeholder="FFFFFF">
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
